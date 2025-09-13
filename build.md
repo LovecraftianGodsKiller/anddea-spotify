@@ -1,4 +1,4 @@
-Spotify: 9.0.74.1121  
+Spotify: 9.0.76.1115  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
