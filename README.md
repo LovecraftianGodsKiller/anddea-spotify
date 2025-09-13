@@ -1,8 +1,7 @@
 # Spotify ReVanced APK and Magisk Module built using [anddea's ReVanced Extended patches](https://github.com/anddea/revanced-patches)
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/LovecraftianGodsKiller/revanced-magisk-module/actions/workflows/ci.yml)
 
-# WARNING!!! Premium patches are not included due to the fact that Spotify shadow bans accounts that are being used with modified versions of the app.
-If you want ad free music, check out my repo for [YouTube and YouTube Music](https://GitHub.com/LovecraftianGodsKiller/anddea-revanced-magisk-module)
+# WARNING!!! Premium patches are not included due to the fact that Spotify shadow bans accounts that are being used with modified versions of the app. Check out my repo for [YouTube and YouTube Music](https://GitHub.com/LovecraftianGodsKiller/anddea-revanced-magisk-module) if you want ad free music.
 
 ## Obtainium imports for update convenience!  
 ## Just tap on either logo to import the corresponding app to Obtainium! ([Link to Obtainium](https://github.com/ImranR98/Obtainium) if not already installed)
